@@ -1,2 +1,4 @@
 # frontendDev
-Repositorio de ejemplos del curso de Frontend Developer de Platzi. Profesora: Estefany Aguilar.
+Repositorio de ejercicios del curso "Frontend Developer" de Platzi. 
+Profesora: Estefany Aguilar.
+Año de cursada: 2023
